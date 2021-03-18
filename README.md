@@ -6,6 +6,6 @@ Versão do python utilizada: Python 3.9.1
 
 Ambiente de execução: Terminal de comandos
 
-Como executar: abra o seu terminal, escreva python e em seguida o caminho absoluto.
+Como executar: abra o seu terminal, escreva python e em seguida o caminho absoluto do arquivo jogo_da_velha.py.
 
 Esse software utiliza a lisença MIT.
